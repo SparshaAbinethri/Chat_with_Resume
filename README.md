@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Resume Q&A API (Auto-generated)
 
@@ -24,3 +25,6 @@ uvicorn app:app --reload
 ## Deploy (Railway/Render)
 - Use `web: uvicorn app:app --host 0.0.0.0 --port $PORT` as the start command.
 - Set `ALLOWED_ORIGIN=https://<your-vercel-app>.vercel.app` after you deploy the frontend.
+=======
+# Chat_with_Resume
+>>>>>>> c373d8a453d06d96697a15482015c4b69aa661ce
