@@ -1,10 +1,5 @@
-PyPDF2
-accelerate
-faiss-cpu
-fastapi
-huggingface_hub
-langchain
-langchain-community
-sentence-transformers
-transformers
-uvicorn[standard]
+fastapi==0.112.2
+uvicorn[standard]==0.30.6
+PyPDF2==3.0.1
+sentence-transformers==2.2.2
+numpy==1.26.4
