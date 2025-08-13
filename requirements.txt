@@ -1,0 +1,10 @@
+PyPDF2
+accelerate
+faiss-cpu
+fastapi
+huggingface_hub
+langchain
+langchain-community
+sentence-transformers
+transformers
+uvicorn[standard]
